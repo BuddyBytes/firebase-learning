@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "299475880717",
+    "project_id": "fir-learning-flutter",
+    "storage_bucket": "fir-learning-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299475880717:android:d21028613fd847c169be44",
+        "android_client_info": {
+          "package_name": "com.example.firelear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299475880717-1r65unjrtar3ssj3p4q08ffshtrssjk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firelear",
+            "certificate_hash": "9a0419c06182b3b12a85e8e2110998a142a1051d"
+          }
+        },
+        {
+          "client_id": "299475880717-3kuknrtt3385c3h5vghvb2s4o302rlhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJqT4hpIfzTzGqA4NYJYcs-AU_MR6JTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299475880717-3kuknrtt3385c3h5vghvb2s4o302rlhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
